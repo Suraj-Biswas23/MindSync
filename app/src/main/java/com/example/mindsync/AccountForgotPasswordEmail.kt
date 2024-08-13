@@ -18,7 +18,7 @@ class AccountForgotPasswordEmail : AppCompatActivity() {
     }
 
     fun onViewPhone(view: View?) {
-        // Handle the click event, e.g., navigate to the phone screem
+        // Handle the click event, e.g., navigate to the phone screen
         val viewPhoneIntent = Intent(this, AccountForgotPasswordPhone::class.java)
         startActivity(viewPhoneIntent)
     }
