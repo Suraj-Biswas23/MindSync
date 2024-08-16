@@ -19,6 +19,6 @@ MindSync is a kotlin based mobile app offering AI-powered counseling solutions. 
 - Figma
 
 ## Screen Snippets:
-![mindsync](https://github.com/user-attachments/assets/e173c021-cb95-4f0f-9e34-d794c15eef12 =250x250)
+<img src="https://github.com/user-attachments/assets/e173c021-cb95-4f0f-9e34-d794c15eef12" width="100" height="100">
 
 
